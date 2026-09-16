@@ -1,0 +1,47 @@
+The **Sapphire-25 (RP-25M, N005)** was a major technological leap for the MiG-25 interceptor, representing a complete overhaul of its radar and fire-control system. Its development was directly triggered by the defection of a Soviet pilot to Japan in 1976, which exposed the MiG-25P's original **Smerch-A** radar to Western intelligence. The new radar was designed to restore the aircraft's technological edge by providing true **look-down/shoot-down** capability and improved performance against electronic countermeasures.
+
+### 📜 From Smerch to Sapphire: A Forced Evolution
+
+The original MiG-25P was equipped with the **Smerch-A (RP-25)**, a massive, high-powered radar using vacuum tube technology. While incredibly powerful, with an estimated peak output of around **600 kW**, it had a critical weakness: it could not distinguish low-flying targets from ground clutter, making it ineffective against targets below it.
+
+The Belenko defection revealed that the West had gained detailed knowledge of the Smerch-A. In response, the Soviet Union issued an emergency order to develop a new radar, leading to the **Sapphire-25**. It was developed by the **NII Radyostroyenya (NIIR)** research institute and was based on the more modern, solid-state **Sapphire-23ML** radar from the MiG-23ML fighter, but scaled up with a larger antenna and greater power output.
+
+### ⚙️ Technical Specifications and Design
+
+The Sapphire-25 was a **pulse-Doppler radar** operating in the **J-band**, a significant upgrade from the Smerch-A's technology. It was designed to work in conjunction with a new **AVM-25 digital computer**, which greatly improved its processing power and automation.
+
+| Feature | Specification |
+| :--- | :--- |
+| **Radar Type** | Pulse-Doppler (RP-25M / N005) |
+| **Frequency Band** | J-band |
+| **Detection Range** | Up to **100 km** against a target with a **10 m² RCS**; up to **110–120 km** against larger bomber-sized targets |
+| **Tracking Range** | **75 km** for automatic tracking |
+| **Field of View** | **±56°** in azimuth (horizontal); **6°** in elevation (vertical) |
+| **Track-While-Scan** | Capable of tracking up to **6 targets** simultaneously "on the pass" |
+| **Look-Down/Shoot-Down** | Yes, with effective range reduced by approximately **30%** |
+
+### 📡 Operating Modes and Capabilities
+
+The Sapphire-25 offered a much more sophisticated set of operating modes than its predecessor, allowing it to engage targets in a variety of scenarios:
+
+*   **RDR (Radar) Mode:** The primary air-to-air mode, which included several sub-modes for different altitudes:
+    *   **HMA (High-Altitude Scan):** For engaging targets with a vertical separation of **1,000 to 12,000 meters**, from either the front or rear hemisphere. Detection range was maximized when the MiG-25 was flying above 4,500 meters.
+    *   **HMA-DN (High-Altitude Scan - Low-Altitude Blind Zone):** A look-down mode for engaging targets flying above 2,000 meters while the MiG-25 was at a higher altitude. The maximum altitude advantage was **5,000 meters** for a forward-hemisphere attack.
+    *   **MLA (Medium-Altitude Scan)** and **LA (Low-Altitude Scan):** Additional modes for engaging targets at lower altitudes, though with significantly reduced range.
+*   **ATM (Atmospheric Interference) Mode:** A specialized mode for use when attacking targets in the presence of **passive countermeasures** like chaff or within radio-contrast cloud formations.
+
+The radar's increased power and improved processing gave it better resistance to jamming. It was also integrated with the new **R-40RD** and **R-40TD** air-to-air missiles, as well as the short-range **R-60** missiles.
+
+### 📊 Operational Impact and Limitations
+
+The introduction of the Sapphire-25 significantly enhanced the MiG-25PD's combat effectiveness. For the first time, the Foxbat could reliably detect and engage targets flying at altitudes as low as **50 meters**, a massive improvement over its predecessor and a critical capability against low-flying NATO strike aircraft.
+
+However, the radar still had limitations. Its **low pulse repetition frequency (LPRF)** design meant its look-down performance was not as robust as the more advanced, high-PRF radars being developed for the MiG-31. In look-down/shoot-down mode, its range could be reduced to around **20 km** in certain conditions. Furthermore, while it had a limited look-down capability, it was not designed for true all-aspect look-down/shoot-down engagements against highly agile targets in a heavy clutter environment.
+
+### 🚀 Legacy and Export
+
+The Sapphire-25 was installed on the **MiG-25PD** and retrofitted to existing **MiG-25P** airframes, which were redesignated **MiG-25PDS** (later MiG-25PDSL). The MiG-25PD was produced from 1978 to 1984, with over 150 aircraft built for the Soviet Union and exports to Iraq, Syria, and Algeria. Notably, the export versions were often fitted with the older **Smerch-A2** radar, while the Soviet Union retained the more advanced Sapphire-25 for its own fleet.
+
+In summary, the Sapphire-25 was a crucial upgrade that kept the MiG-25 interceptor relevant in the face of evolving air threats. It transformed the Foxbat from a high-altitude, clear-weather interceptor into a more versatile platform capable of engaging a wider range of targets, including those flying in the challenging low-altitude environment.
+
+If you'd like to explore the MiG-25's other systems or its combat history, feel free to ask.
